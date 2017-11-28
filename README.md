@@ -1,6 +1,6 @@
 # Spring MVC Sample
 
-Spring MVC sample with Thymeleaf view technology.
+Spring MVC sample with Thymeleaf view technology. 
 
 ## Deploy
 
